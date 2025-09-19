@@ -25,7 +25,9 @@
             width: 10%;
         }
         &:hover{
-            width: 30%;
+            @include breakpoint("desktop"){
+                width: 30%;
+            }
         }
 
     }
