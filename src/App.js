@@ -1,25 +1,17 @@
-import logo from './logo.svg';
+
+import Header from './template/Header';
+import Image from './template/Image';
 import './App.css';
+
+const pages =[{id:0, page: Header}, {id:1, page: Image}]
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    [pages.map(p => <div key={p.id}>
+      <p.page/>
+    </div>)]
   );
 }
+
 
 export default App;
