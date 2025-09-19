@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ad3e511.css",
-    "main.js": "/static/js/main.b9db9774.js",
-    "static/js/453.b0928d06.chunk.js": "/static/js/453.b0928d06.chunk.js",
-    "static/media/LEX04410.jpg": "/static/media/LEX04410.da7fa2cab888d62a9572.jpg",
-    "static/media/bg-img.jpg": "/static/media/bg-img.c269e2255ebf84e41d71.jpg",
-    "static/media/LEX04396.jpg": "/static/media/LEX04396.61a38662ad3d59489627.jpg",
-    "static/media/DSC_3158.jpg": "/static/media/DSC_3158.a83858c0981fd452c9f2.jpg",
-    "static/media/DSC_3141.jpg": "/static/media/DSC_3141.875f264598bcf00e17ac.jpg",
-    "static/media/LEX04335.jpg": "/static/media/LEX04335.99374cbc17ae17ba9a26.jpg",
-    "static/media/Zelfie.png": "/static/media/Zelfie.93da540ae556c9cc966f.png",
-    "index.html": "/index.html",
-    "main.6ad3e511.css.map": "/static/css/main.6ad3e511.css.map",
-    "main.b9db9774.js.map": "/static/js/main.b9db9774.js.map",
-    "453.b0928d06.chunk.js.map": "/static/js/453.b0928d06.chunk.js.map"
+    "main.css": "/wedding/static/css/main.6ad3e511.css",
+    "main.js": "/wedding/static/js/main.9e5cdb76.js",
+    "static/js/453.b0928d06.chunk.js": "/wedding/static/js/453.b0928d06.chunk.js",
+    "static/media/LEX04410.jpg": "/wedding/static/media/LEX04410.da7fa2cab888d62a9572.jpg",
+    "static/media/bg-img.jpg": "/wedding/static/media/bg-img.c269e2255ebf84e41d71.jpg",
+    "static/media/LEX04396.jpg": "/wedding/static/media/LEX04396.61a38662ad3d59489627.jpg",
+    "static/media/DSC_3158.jpg": "/wedding/static/media/DSC_3158.a83858c0981fd452c9f2.jpg",
+    "static/media/DSC_3141.jpg": "/wedding/static/media/DSC_3141.875f264598bcf00e17ac.jpg",
+    "static/media/LEX04335.jpg": "/wedding/static/media/LEX04335.99374cbc17ae17ba9a26.jpg",
+    "static/media/Zelfie.png": "/wedding/static/media/Zelfie.93da540ae556c9cc966f.png",
+    "index.html": "/wedding/index.html",
+    "main.6ad3e511.css.map": "/wedding/static/css/main.6ad3e511.css.map",
+    "main.9e5cdb76.js.map": "/wedding/static/js/main.9e5cdb76.js.map",
+    "453.b0928d06.chunk.js.map": "/wedding/static/js/453.b0928d06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ad3e511.css",
-    "static/js/main.b9db9774.js"
+    "static/js/main.9e5cdb76.js"
   ]
 }
